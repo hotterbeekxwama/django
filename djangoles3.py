@@ -27,3 +27,5 @@ class Docent(Persona):
 
 x = Docent("Jan", "3456", "56000", "Engels")
 x.details()
+x = Docent("Piet", "3455", "59990", "Frans")
+x.details()
